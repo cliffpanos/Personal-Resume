@@ -1,9 +1,10 @@
 #!/bin/bash
 
 # A script to push "Clifford Panos Resume.pdf"
-# to the master branch of cliffpanos/Personal-Resume on GitHub
+#   to origin/master of cliffpanos/Personal-Resume on GitHub
 
-# Origin of repository: https://github.com/cliffpanos/Personal-Resume
+# Repository: https://github.com/cliffpanos/Personal-Resume
+
 
 echo \* Beginning upload of \"Clifford Panos Resume\" to GitHub...
 echo ""
