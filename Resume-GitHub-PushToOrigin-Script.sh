@@ -9,6 +9,8 @@
 echo \* Beginning upload of \"Clifford Panos Resume\" to GitHub...
 echo ""
 
+cd ~/Documents/Personal/\*Résumé\ \&\ Cover\ Letter/Resume-GitHub/
+
 git pull origin master
 
 git add Clifford\ Panos\ Resume.pdf
